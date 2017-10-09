@@ -146,10 +146,10 @@ main: com.someones.example.Main
 version: 1.0
 commands:
   sayhi:
-		description: Says hi to you
-		usage: /sayhi
-		permissions: example.hi
-		permissions-message: No perms dude!</code></pre>
+    description: Says hi to you
+    usage: /sayhi
+    permissions: example.hi
+    permissions-message: No perms dude!</code></pre>
 ```
 
 With this, you should be able to create many plugins. If you enjoyed the tutorial, please leave some comments below! Thank you 🙂
