@@ -7,7 +7,7 @@ layout: post
 
 
 categories:
-  - Mods / Plugins
+  - Mods & Plugins
 ---
 Rei&#8217;s Minimap is a simple mod which shows a minimap at the top right of the game for easier navigation. It is an easy to install mod, for forge users.
 

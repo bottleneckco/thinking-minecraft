@@ -7,7 +7,7 @@ layout: post
 
 
 categories:
-  - Mods / Plugins
+  - Mods & Plugins
 ---
 Wassup people! So this time I am going to show the best features of the wand for those who just set up their servers with Duncan&#8217;s guide [here](/?cat=8). I will be covering a few basic commands that will make your lives easier and some can even undo grieving (to a certain degree).
 

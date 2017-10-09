@@ -7,7 +7,7 @@ layout: post
 
 
 categories:
-  - Mods / Plugins
+  - Mods & Plugins
 ---
 Today I will be doing a pictorial tutorial on how to set up a lift with the lift plugin on a bukkit server.
 

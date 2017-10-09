@@ -1,13 +1,12 @@
 ---
 id: 45
-title: Top 5 Bukkit Plugins
+title: Top 10 Bukkit Plugins
 date: 2014-07-23T10:22:03+00:00
 author: Adithya
 layout: post
 
-
 categories:
-  - Mods / Plugins
+  - Mods & Plugins
 ---
 <p style="text-align: left;">
   <a href="/wp-content/uploads/2014/07/plugins-cover.png"><img class="alignnone size-large wp-image-182" src="/wp-content/uploads/2014/07/plugins-cover-940x528.png" alt="plugins cover" width="940" height="528" srcset="/wp-content/uploads/2014/07/plugins-cover-940x528.png 940w, /wp-content/uploads/2014/07/plugins-cover-620x348.png 620w" sizes="(max-width: 940px) 100vw, 940px" /></a>
