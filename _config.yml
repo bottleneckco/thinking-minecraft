@@ -1,4 +1,5 @@
 url: ""
+baseurl: /thinking-minecraft
 name: Thinking.Minecraft
 description: A blog about the game we all love!
 theme: minima

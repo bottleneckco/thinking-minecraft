@@ -22,7 +22,7 @@ Hello and welcome to Minecraft News. Today, this section will be about some of t
 
 How to craft a banner:<figure id="attachment_418" style="width: 531px" class="wp-caption alignnone">
 
-[<img class="size-full wp-image-418" src="/wp-content/uploads/2014/08/2014-08-06_10.01.08.png" alt="How to craft a Banner" width="531" height="216" />](/wp-content/uploads/2014/08/2014-08-06_10.01.08.png)<figcaption class="wp-caption-text">How to craft a Banner</figcaption></figure> 
+[<img class="size-full wp-image-418" src="/thinking-minecraft/wp-content/uploads/2014/08/2014-08-06_10.01.08.png" alt="How to craft a Banner" width="531" height="216" />](/thinking-minecraft/wp-content/uploads/2014/08/2014-08-06_10.01.08.png)<figcaption class="wp-caption-text">How to craft a Banner</figcaption></figure> 
 
 You can add patterns to the Banner. Since there are many possibilities, I will only list some patterns.
 
@@ -30,11 +30,11 @@ You can add patterns to the Banner. Since there are many possibilities, I will o
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/?attachment_id=425#main'><img width="220" height="140" src="/wp-content/uploads/2014/08/2014-08-06_10.20.42-220x140.png" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-12-425" /></a>
+    <a href='/?attachment_id=425#main'><img width="220" height="140" src="/thinking-minecraft/wp-content/uploads/2014/08/2014-08-06_10.20.42-220x140.png" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-12-425" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-12-425'> Additional patterns can be added to a banner </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/?attachment_id=423#main'><img width="220" height="140" src="/wp-content/uploads/2014/08/2014-08-06_10.13.19-220x140.png" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-12-423" /></a>
+    <a href='/?attachment_id=423#main'><img width="220" height="140" src="/thinking-minecraft/wp-content/uploads/2014/08/2014-08-06_10.13.19-220x140.png" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-12-423" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-12-423'> Emblazon Top Third of Banner </figcaption></figure>
 </div>
 

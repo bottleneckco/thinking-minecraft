@@ -14,7 +14,7 @@ Allons-y!
 
 <figure id="attachment_296" style="width: 620px" class="wp-caption aligncenter">
 
-<img class="wp-image-296 size-medium" src="/wp-content/uploads/2014/07/Logo1-620x76.png" alt="Welcome to our blog!" width="620" height="76" srcset="/wp-content/uploads/2014/07/Logo1-620x76.png 620w, /wp-content/uploads/2014/07/Logo1.png 854w" sizes="(max-width: 620px) 100vw, 620px" />
+<img class="wp-image-296 size-medium" src="/thinking-minecraft/wp-content/uploads/2014/07/Logo1-620x76.png" alt="Welcome to our blog!" width="620" height="76" srcset="/thinking-minecraft/wp-content/uploads/2014/07/Logo1-620x76.png 620w, /thinking-minecraft/wp-content/uploads/2014/07/Logo1.png 854w" sizes="(max-width: 620px) 100vw, 620px" />
 
 <figcaption class="wp-caption-text">Welcome to our blog!</figcaption>
 </figure> 

@@ -11,7 +11,7 @@ categories:
 ---
 <span style="text-decoration: underline;"><strong>server.properties</strong> explained</span><figure id="attachment_362" style="width: 342px" class="wp-caption alignleft">
 
-<img class="wp-image-362" src="/wp-content/uploads/2014/07/ServerPropsSublime-620x348.png" alt="Default generated server.properties file" width="342" height="192" srcset="/wp-content/uploads/2014/07/ServerPropsSublime-620x348.png 620w, /wp-content/uploads/2014/07/ServerPropsSublime-940x528.png 940w, /wp-content/uploads/2014/07/ServerPropsSublime.png 1366w" sizes="(max-width: 342px) 100vw, 342px" /><figcaption class="wp-caption-text">Default generated server.properties file</figcaption></figure> 
+<img class="wp-image-362" src="/thinking-minecraft/wp-content/uploads/2014/07/ServerPropsSublime-620x348.png" alt="Default generated server.properties file" width="342" height="192" srcset="/thinking-minecraft/wp-content/uploads/2014/07/ServerPropsSublime-620x348.png 620w, /thinking-minecraft/wp-content/uploads/2014/07/ServerPropsSublime-940x528.png 940w, /thinking-minecraft/wp-content/uploads/2014/07/ServerPropsSublime.png 1366w" sizes="(max-width: 342px) 100vw, 342px" /><figcaption class="wp-caption-text">Default generated server.properties file</figcaption></figure> 
 
 Here is an explanation of each line created in a default server.properties run under a **Bukkit server.**
   
