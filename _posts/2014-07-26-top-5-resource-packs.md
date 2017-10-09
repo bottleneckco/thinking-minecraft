@@ -5,7 +5,7 @@ date: 2014-07-26T19:51:51+00:00
 author: Adithya
 layout: post
 
-permalink: /?p=185
+
 categories:
   - Resource Packs
 ---

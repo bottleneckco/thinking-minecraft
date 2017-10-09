@@ -5,7 +5,7 @@ date: 2014-07-27T18:31:11+00:00
 author: Ivan Tan
 layout: post
 guid: http://128.199.139.102/?p=9
-permalink: /?p=9
+
 categories:
   - Newbie In Minecraft
 ---

@@ -5,7 +5,7 @@ date: 2014-07-27T21:21:03+00:00
 author: Amos Tan
 layout: post
 
-permalink: /?p=77
+
 categories:
   - Thoughts on the Newbie
 ---

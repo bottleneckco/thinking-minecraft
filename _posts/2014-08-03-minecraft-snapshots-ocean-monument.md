@@ -5,7 +5,7 @@ date: 2014-08-03T15:12:33+00:00
 author: Amos Tan
 layout: post
 
-permalink: /?p=367
+
 categories:
   - Minecraft News
 ---

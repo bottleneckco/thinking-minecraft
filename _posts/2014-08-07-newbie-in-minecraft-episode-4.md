@@ -5,7 +5,7 @@ date: 2014-08-07T02:41:43+00:00
 author: Ivan Tan
 layout: post
 
-permalink: /?p=549
+
 categories:
   - Newbie In Minecraft
   - Uncategorized

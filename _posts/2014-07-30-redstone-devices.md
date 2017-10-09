@@ -5,7 +5,7 @@ date: 2014-07-30T23:41:15+00:00
 author: Jerome Tiong
 layout: post
 
-permalink: /?p=541
+
 categories:
   - Redstone Mania
 ---

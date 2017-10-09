@@ -5,7 +5,7 @@ date: 2014-08-06T15:38:09+00:00
 author: Duncan Leo
 layout: post
 
-permalink: /?p=420
+
 categories:
   - Bukkit Plugins
 ---

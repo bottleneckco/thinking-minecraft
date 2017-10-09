@@ -5,7 +5,7 @@ date: 2014-08-06T16:34:43+00:00
 author: Adithya
 layout: post
 
-permalink: /?p=572
+
 categories:
   - Mods / Plugins
 ---

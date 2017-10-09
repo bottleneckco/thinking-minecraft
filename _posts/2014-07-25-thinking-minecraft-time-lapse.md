@@ -5,7 +5,7 @@ date: 2014-07-25T19:50:19+00:00
 author: Jerome Tiong
 layout: post
 
-permalink: /?p=40
+
 categories:
   - Time Lapses
 ---

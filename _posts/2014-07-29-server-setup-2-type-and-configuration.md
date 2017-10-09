@@ -5,7 +5,7 @@ date: 2014-07-29T17:44:09+00:00
 author: Duncan Leo
 layout: post
 
-permalink: /?p=27
+
 categories:
   - Server Setup
 ---
