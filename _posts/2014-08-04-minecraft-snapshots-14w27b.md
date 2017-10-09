@@ -28,15 +28,15 @@ Today, this post will be talking the upcoming features in Snapshot 14w27b. This 
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://128.199.175.217/?attachment_id=460#main'><img width="220" height="140" src="http://128.199.175.217/wp-content/uploads/2014/08/2014-08-06_15.20.24-220x140.png" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-10-460" /></a>
+    <a href='/?attachment_id=460#main'><img width="220" height="140" src="/wp-content/uploads/2014/08/2014-08-06_15.20.24-220x140.png" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-10-460" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-10-460'> Bunnies! </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://128.199.175.217/?attachment_id=461#main'><img width="220" height="140" src="http://128.199.175.217/wp-content/uploads/2014/08/2014-08-06_15.23.27-220x140.png" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-10-461" /></a>
+    <a href='/?attachment_id=461#main'><img width="220" height="140" src="/wp-content/uploads/2014/08/2014-08-06_15.23.27-220x140.png" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-10-461" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-10-461'> The Killer Rabbit of Caerbannog </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://128.199.175.217/?attachment_id=463#main'><img width="220" height="140" src="http://128.199.175.217/wp-content/uploads/2014/08/2014-08-06_15.26.01-220x140.png" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-10-463" /></a>
+    <a href='/?attachment_id=463#main'><img width="220" height="140" src="/wp-content/uploads/2014/08/2014-08-06_15.26.01-220x140.png" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-10-463" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-10-463'> A rare variant of rabbit : &#8216;Toast&#8217; </figcaption></figure>
 </div>
 

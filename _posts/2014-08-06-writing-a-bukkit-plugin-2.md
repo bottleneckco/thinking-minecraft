@@ -23,7 +23,7 @@ In addition to these events, a plugin can also hook onto command events (which a
 
 The complete list of events can be seen at the Bukkit [Javadoc location](http://jd.bukkit.org/dev/apidocs "Bukkit Javadocs").<figure id="attachment_488" style="width: 196px" class="wp-caption alignleft">
 
-[<img class="wp-image-488" src="/wp-content/uploads/2014/08/bukkit_javadoc_events-620x272.png" alt="A section of Bukkit's Javadocs" width="196" height="86" srcset="http://128.199.175.217/wp-content/uploads/2014/08/bukkit_javadoc_events-620x272.png 620w, http://128.199.175.217/wp-content/uploads/2014/08/bukkit_javadoc_events-940x412.png 940w, http://128.199.175.217/wp-content/uploads/2014/08/bukkit_javadoc_events.png 1363w" sizes="(max-width: 196px) 100vw, 196px" />](/wp-content/uploads/2014/08/bukkit_javadoc_events.png)<figcaption class="wp-caption-text">A section of Bukkit&#8217;s Javadocs</figcaption></figure> 
+[<img class="wp-image-488" src="/wp-content/uploads/2014/08/bukkit_javadoc_events-620x272.png" alt="A section of Bukkit's Javadocs" width="196" height="86" srcset="/wp-content/uploads/2014/08/bukkit_javadoc_events-620x272.png 620w, /wp-content/uploads/2014/08/bukkit_javadoc_events-940x412.png 940w, /wp-content/uploads/2014/08/bukkit_javadoc_events.png 1363w" sizes="(max-width: 196px) 100vw, 196px" />](/wp-content/uploads/2014/08/bukkit_javadoc_events.png)<figcaption class="wp-caption-text">A section of Bukkit&#8217;s Javadocs</figcaption></figure> 
 
 There are two important methods that **any plugin should have.** These are the `onEnable` and `onDisable` methods. They are called whenever the plugin is enabled and disabled, respectively.
 
@@ -35,7 +35,7 @@ Code that your plugin runs when an event is called are called **event handlers
 
 The handlers are typically registered at the `onEnable` method. Write in your `onEnable` method, and add in the line above:<figure id="attachment_492" style="width: 198px" class="wp-caption alignnone">
 
-<img class=" wp-image-492" src="/wp-content/uploads/2014/08/eclipse_code1-620x348.png" alt="The method in Eclipse" width="198" height="111" srcset="http://128.199.175.217/wp-content/uploads/2014/08/eclipse_code1-620x348.png 620w, http://128.199.175.217/wp-content/uploads/2014/08/eclipse_code1-940x528.png 940w, http://128.199.175.217/wp-content/uploads/2014/08/eclipse_code1.png 1227w" sizes="(max-width: 198px) 100vw, 198px" /><figcaption class="wp-caption-text">The method in Eclipse</figcaption></figure> 
+<img class=" wp-image-492" src="/wp-content/uploads/2014/08/eclipse_code1-620x348.png" alt="The method in Eclipse" width="198" height="111" srcset="/wp-content/uploads/2014/08/eclipse_code1-620x348.png 620w, /wp-content/uploads/2014/08/eclipse_code1-940x528.png 940w, /wp-content/uploads/2014/08/eclipse_code1.png 1227w" sizes="(max-width: 198px) 100vw, 198px" /><figcaption class="wp-caption-text">The method in Eclipse</figcaption></figure> 
 
 Bukkit will now call your event handlers when the events are called!
 

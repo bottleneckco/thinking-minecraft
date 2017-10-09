@@ -10,8 +10,13 @@ We are a group of five people &#8211; **Adithya, ****Amos, Duncan, Ivan** and 
 
 Take your time to navigate around the blog and most importantly, have fun!
 
-Allons-y!<figure id="attachment_296" style="width: 620px" class="wp-caption aligncenter">
+Allons-y!
 
-[<img class="wp-image-296 size-medium" src="/wp-content/uploads/2014/07/Logo1-620x76.png" alt="Welcome to our blog!" width="620" height="76" srcset="http://128.199.175.217/wp-content/uploads/2014/07/Logo1-620x76.png 620w, http://128.199.175.217/wp-content/uploads/2014/07/Logo1.png 854w" sizes="(max-width: 620px) 100vw, 620px" />](/wp-content/uploads/2014/07/Logo1.png)<figcaption class="wp-caption-text">Welcome to our blog!</figcaption></figure> 
+<figure id="attachment_296" style="width: 620px" class="wp-caption aligncenter">
+
+[<img class="wp-image-296 size-medium" src="/wp-content/uploads/2014/07/Logo1-620x76.png" alt="Welcome to our blog!" width="620" height="76" srcset="/wp-content/uploads/2014/07/Logo1-620x76.png 620w, /wp-content/uploads/2014/07/Logo1.png 854w" sizes="(max-width: 620px) 100vw, 620px" />](/wp-content/uploads/2014/07/Logo1.png)
+
+<figcaption class="wp-caption-text">Welcome to our blog!</figcaption>
+</figure> 
 
 &nbsp;

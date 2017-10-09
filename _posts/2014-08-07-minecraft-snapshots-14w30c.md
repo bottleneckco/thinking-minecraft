@@ -30,11 +30,11 @@ You can add patterns to the Banner. Since there are many possibilities, I will o
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://128.199.175.217/?attachment_id=425#main'><img width="220" height="140" src="http://128.199.175.217/wp-content/uploads/2014/08/2014-08-06_10.20.42-220x140.png" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-12-425" /></a>
+    <a href='/?attachment_id=425#main'><img width="220" height="140" src="/wp-content/uploads/2014/08/2014-08-06_10.20.42-220x140.png" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-12-425" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-12-425'> Additional patterns can be added to a banner </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://128.199.175.217/?attachment_id=423#main'><img width="220" height="140" src="http://128.199.175.217/wp-content/uploads/2014/08/2014-08-06_10.13.19-220x140.png" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-12-423" /></a>
+    <a href='/?attachment_id=423#main'><img width="220" height="140" src="/wp-content/uploads/2014/08/2014-08-06_10.13.19-220x140.png" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-12-423" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-12-423'> Emblazon Top Third of Banner </figcaption></figure>
 </div>
 
