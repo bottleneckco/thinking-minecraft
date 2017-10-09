@@ -15,3 +15,7 @@ defaults:
       type: category
     values:
       layout: "category"
+  - scope:
+      path: "wp-content"
+    values:
+      image: true
