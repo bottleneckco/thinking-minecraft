@@ -1,6 +1,6 @@
 ---
 id: 9
-title: 'Newbie in Minecraft &#8211; Prelude'
+title: 'Newbie in Minecraft – Prelude'
 date: 2014-07-27T18:31:11+00:00
 author: Ivan Tan
 layout: post

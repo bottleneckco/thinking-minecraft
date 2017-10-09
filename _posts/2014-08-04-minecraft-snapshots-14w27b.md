@@ -1,6 +1,6 @@
 ---
 id: 432
-title: 'Minecraft Snapshots &#8211; 14w27b'
+title: 'Minecraft Snapshots – 14w27b'
 date: 2014-08-04T18:23:25+00:00
 author: Amos Tan
 layout: post

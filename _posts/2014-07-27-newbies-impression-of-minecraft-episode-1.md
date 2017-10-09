@@ -1,6 +1,6 @@
 ---
 id: 161
-title: 'Newbie in Minecraft &#8211; Episode 1'
+title: 'Newbie in Minecraft – Episode 1'
 date: 2014-07-27T18:37:51+00:00
 author: Ivan Tan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 40
-title: 'Time Lapse &#8211; Logo'
+title: 'Time Lapse – Logo'
 date: 2014-07-25T19:50:19+00:00
 author: Jerome Tiong
 layout: post
