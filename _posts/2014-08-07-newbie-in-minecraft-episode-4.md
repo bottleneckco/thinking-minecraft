@@ -13,3 +13,5 @@ categories:
 Hi Peeps,
 
 New episode of NIMC is out. Episode 4 will be an interesting one because there are special guests featured in the episode. Enjoy!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EDzvdxVGq5s" frameborder="0" allowfullscreen></iframe>

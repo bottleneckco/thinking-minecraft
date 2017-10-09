@@ -10,3 +10,5 @@ categories:
   - Newbie In Minecraft
 ---
 Hi guys, episode 3 of NIMC is out. Enjoy!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WtjnMhCgiYI" frameborder="0" allowfullscreen></iframe>

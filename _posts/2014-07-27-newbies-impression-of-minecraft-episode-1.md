@@ -12,3 +12,5 @@ categories:
 Hello fellow minecrafters,
 
 The first episode of Newbie&#8217;s Impression of Minecraft is out!! Enjoy and laugh at the protagonist as he discovers how to play Minecraft with some help from a special guest.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ddiraDQSEX8" frameborder="0" allowfullscreen></iframe>

@@ -12,3 +12,5 @@ categories:
 Hi guys,
 
 Episode 2 of Newbie&#8217;s Impression of Minecraft is up. Enjoy!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3ONyp73Fxus" frameborder="0" allowfullscreen></iframe>
