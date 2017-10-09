@@ -31,7 +31,9 @@ Code that your plugin runs when an event is called are called **event handlers
 
 &nbsp;
 
-<pre class="prettyprint"><code>Bukkit.getServer().getPluginManager().registerEvents(this, this);</code></pre>
+```java
+Bukkit.getServer().getPluginManager().registerEvents(this, this);
+```
 
 The handlers are typically registered at the `onEnable` method. Write in your `onEnable` method, and add in the line above:<figure id="attachment_492" style="width: 198px" class="wp-caption alignnone">
 
@@ -49,36 +51,42 @@ This is the **Bukkit** class. This handles some of the more background parts o
   
 ``
 
-<pre class="prettyprint"><code>Bukkit.broadcastMessage("hi"); //Broadcasts a message to all players
+```java
+Bukkit.broadcastMessage("hi"); //Broadcasts a message to all players
 Bukkit.getPlayer(UUID); //Get a Player object from his UUID.
-Bukkit.getScheduler() //This returns a BukkitScheduler object which can be used to schedule tasks using Bukkit's internal ticks system.</code></pre>
+Bukkit.getScheduler() //This returns a BukkitScheduler object which can be used to schedule tasks using Bukkit's internal ticks system.
+```
 
 More often than not, you will be using the **Player** class. This pertains to certain parts of a player:
 
-<pre class="prettyprint"><code>Player.getName(); //Returns a player's name
+```java
+Player.getName(); //Returns a player's name
 Player.getHealth(); //Returns a player's health as a double
 Player.sendMessage("hi dude"); //Broadcasts a message to this player only (instead of everyone)
 Player.kickPlayer("Go away man"); //Kicks a player
 Player.setDisplayName("Cowboy"); //Sets a player's friendly name (not login name)
 Player.updateInventory(); //Used when you need to update a player's inventory
 Player.getLocation(); //Returns a Location object containing data about a player's location
-</code></pre>
+```
 
 Further on here is the **Entity** class, which refers to any single entity. This may be a passive mob, a hostile mob or even an experience orb:
 
-<pre class="prettyprint"><code>Entity.remove(); //Flags entity for removal
+```java
+Entity.remove(); //Flags entity for removal
 Entity.getType(); //Returns an EntityType object containing data about the entity's type</code></pre>
-
+```
 &nbsp;
 
 <span style="text-decoration: underline;"><strong>Event Handlers</strong></span>
 
 Here is an example of an event handler which greets a player with a &#8216;Hello&#8217; message when they join the server:
 
-<pre class="prettyprint"><code>@EventHandler
+```java
+@EventHandler
 public void HelloMessage (PlayerJoinEvent e) {
 	Bukkit.broadcastMessage("Hello" + e.getPlayer().getName());
-}</code></pre>
+}
+```
 
 Take note of the `@EventHandler`, which marks the method as an event handler.
 
@@ -96,14 +104,16 @@ Commands use the onCommand method that returns a boolean. When the method return
 
 Here&#8217;s an example:
 
-<pre class="prettyprint"><code>@Override
+```java
+@Override
 public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
 	if (cmd.getName().equalsIgnoreCase("sayhi")) {
 		sender.sendMessage("Hi " + sender.getName());
 		return true;
 	}
 	return false; 
-}</code></pre>
+}
+```
 
 Usually false is returned if the player seems to have misused the command arguments, etc.
 
@@ -117,10 +127,12 @@ For example, there is the `Chicken` class, and the `Cow` class. Both represent t
 
 If you ever had to test a general class for a more specific one, such as testing if an `Entity` was a `Chicken`, you could do this:
 
-<pre class="prettyprint"><code>//Assuming you have an entity object called 'animal'
+```java
+//Assuming you have an entity object called 'animal'
 if (animal instanceof Chicken) {
 	Bukkit.broadcastMessage("This is a chicken!");
-}</code></pre>
+}
+```
 
 &nbsp;
 
@@ -128,14 +140,16 @@ if (animal instanceof Chicken) {
 
 This is an extremely important file. Plugins **cannot function** **without it.** This file is a plugin descriptor for Bukkit. It tells Bukkit what the main starting class is, the name of the plugin, the version and the commands registered with onCommand(). Here is a sample, using the plugin from our Eclipse sample:
 
-<pre class="prettyprint lang-yaml"><code>name: Example
+```yaml
+name: Example
 main: com.someones.example.Main
 version: 1.0
 commands:
-	sayhi:
+  sayhi:
 		description: Says hi to you
 		usage: /sayhi
 		permissions: example.hi
 		permissions-message: No perms dude!</code></pre>
+```
 
 With this, you should be able to create many plugins. If you enjoyed the tutorial, please leave some comments below! Thank you 🙂
