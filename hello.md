@@ -4,7 +4,7 @@ title: Hello!
 date: 2014-07-24T09:49:39+00:00
 author: Duncan Leo
 layout: page
-
+permalink: /hello/
 ---
 You&#8217;ve found this awesome blog! So, what are we exactly?
 

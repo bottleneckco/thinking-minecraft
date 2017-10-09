@@ -4,7 +4,7 @@ title: About
 date: 2014-07-22T11:08:00+00:00
 author: Duncan Leo
 layout: page
-
+permalink: /about/
 ---
 We are a group of five people &#8211; **Adithya, ****Amos, Duncan, Ivan** and **Jerome**, each doing a different aspects about the game we all love &#8211; Minecraft!
 

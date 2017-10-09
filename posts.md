@@ -4,7 +4,7 @@ title: Posts
 date: 2014-07-24T10:05:53+00:00
 author: Duncan Leo
 layout: page
-
+permalink: /posts/
 ---
 
 <div class="home">
