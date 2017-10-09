@@ -3,7 +3,7 @@ layout: page
 ---
 
 <div class="blog list">
-  <h4>Filed Under "{{ page.tag }}"</h4>
+  <h4>Posts Under "{{ page.tag }}"</h4>
 
   <ul class="post-list">
     {% for post in site.categories[page.tag] %}
