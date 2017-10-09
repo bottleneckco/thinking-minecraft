@@ -10,3 +10,5 @@ categories:
   - Time Lapses
 ---
 This the Minecraft time lapse video of building our project&#8217;s title. Enjoy!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PuiZDZerXJA" frameborder="0" allowfullscreen></iframe>
