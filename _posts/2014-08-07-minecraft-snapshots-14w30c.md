@@ -4,7 +4,7 @@ title: 'Minecraft Snapshots &#8211; 14w30c'
 date: 2014-08-07T10:30:21+00:00
 author: Amos Tan
 layout: post
-guid: http://thinkingminecraft.tk/?p=136
+
 permalink: /?p=136
 categories:
   - Minecraft News
@@ -22,7 +22,7 @@ Hello and welcome to Minecraft News. Today, this section will be about some of t
 
 How to craft a banner:<figure id="attachment_418" style="width: 531px" class="wp-caption alignnone">
 
-[<img class="size-full wp-image-418" src="http://thinkingminecraft.tk/wp-content/uploads/2014/08/2014-08-06_10.01.08.png" alt="How to craft a Banner" width="531" height="216" />](http://thinkingminecraft.tk/wp-content/uploads/2014/08/2014-08-06_10.01.08.png)<figcaption class="wp-caption-text">How to craft a Banner</figcaption></figure> 
+[<img class="size-full wp-image-418" src="/wp-content/uploads/2014/08/2014-08-06_10.01.08.png" alt="How to craft a Banner" width="531" height="216" />](/wp-content/uploads/2014/08/2014-08-06_10.01.08.png)<figcaption class="wp-caption-text">How to craft a Banner</figcaption></figure> 
 
 You can add patterns to the Banner. Since there are many possibilities, I will only list some patterns.
 

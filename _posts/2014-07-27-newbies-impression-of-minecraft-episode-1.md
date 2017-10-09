@@ -4,7 +4,7 @@ title: 'Newbie in Minecraft &#8211; Episode 1'
 date: 2014-07-27T18:37:51+00:00
 author: Ivan Tan
 layout: post
-guid: http://thinkingminecraft.tk/?p=161
+
 permalink: /?p=161
 categories:
   - Newbie In Minecraft

@@ -4,7 +4,7 @@ title: Beginner Redstone Tutorial
 date: 2014-07-26T16:39:44+00:00
 author: Jerome Tiong
 layout: post
-guid: http://thinkingminecraft.tk/?p=405
+
 permalink: /?p=405
 categories:
   - Redstone Mania

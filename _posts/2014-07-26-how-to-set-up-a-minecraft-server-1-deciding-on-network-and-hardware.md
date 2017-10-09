@@ -4,7 +4,7 @@ title: 'Server Setup #1 (Deciding on Network and Hardware)'
 date: 2014-07-26T11:31:46+00:00
 author: Duncan Leo
 layout: post
-guid: http://thinkingminecraft.tk/?p=12
+
 permalink: /?p=12
 categories:
   - Server Setup
@@ -23,7 +23,7 @@ VPN or Port-forwarding?
   
 The first is simpler, requiring no software installation, while the second is more complicated but does not require any software at all. It really depends on whether your friends mind the hassle.<figure id="attachment_283" style="width: 134px" class="wp-caption alignleft">
 
-[<img class=" wp-image-283" src="http://thinkingminecraft.tk/wp-content/uploads/2014/07/LogMeIn-Hamachi.png" alt="LogMeIn Hamachi" width="134" height="207" />](http://thinkingminecraft.tk/wp-content/uploads/2014/07/LogMeIn-Hamachi.png)<figcaption class="wp-caption-text">LogMeIn Hamachi</figcaption></figure> <figure id="attachment_282" style="width: 288px" class="wp-caption alignleft">[<img class="wp-image-282 size-full" src="http://thinkingminecraft.tk/wp-content/uploads/2014/07/gaming-vpn.png" alt="Evolve Gaming VPN" width="288" height="204" />](http://thinkingminecraft.tk/wp-content/uploads/2014/07/gaming-vpn.png)<figcaption class="wp-caption-text">Evolve Gaming VPN</figcaption></figure> 
+[<img class=" wp-image-283" src="/wp-content/uploads/2014/07/LogMeIn-Hamachi.png" alt="LogMeIn Hamachi" width="134" height="207" />](/wp-content/uploads/2014/07/LogMeIn-Hamachi.png)<figcaption class="wp-caption-text">LogMeIn Hamachi</figcaption></figure> <figure id="attachment_282" style="width: 288px" class="wp-caption alignleft">[<img class="wp-image-282 size-full" src="/wp-content/uploads/2014/07/gaming-vpn.png" alt="Evolve Gaming VPN" width="288" height="204" />](/wp-content/uploads/2014/07/gaming-vpn.png)<figcaption class="wp-caption-text">Evolve Gaming VPN</figcaption></figure> 
 
 &nbsp;
 
@@ -39,7 +39,7 @@ The first is simpler, requiring no software installation, while the second is 
 
 Another alternative would be using a server host or VPS, which should come with ports opened by default. The downside to this is the cost involved. It also requires the knowledge of how to transfer files and control the Minecraft console remotely.<figure id="attachment_98" style="width: 300px" class="wp-caption alignnone">
 
-[<img class="wp-image-98 size-medium" src="http://thinkingminecraft.tk/wp-content/uploads/2014/07/MCSS-300x231.png" alt="Screenshot" width="300" height="231" srcset="http://128.199.175.217/wp-content/uploads/2014/07/MCSS-300x231.png 300w, http://128.199.175.217/wp-content/uploads/2014/07/MCSS.png 585w" sizes="(max-width: 300px) 100vw, 300px" />](http://thinkingminecraft.tk/wp-content/uploads/2014/07/MCSS.png)<figcaption class="wp-caption-text">Sample Minecraft server console</figcaption></figure> 
+[<img class="wp-image-98 size-medium" src="/wp-content/uploads/2014/07/MCSS-300x231.png" alt="Screenshot" width="300" height="231" srcset="http://128.199.175.217/wp-content/uploads/2014/07/MCSS-300x231.png 300w, http://128.199.175.217/wp-content/uploads/2014/07/MCSS.png 585w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2014/07/MCSS.png)<figcaption class="wp-caption-text">Sample Minecraft server console</figcaption></figure> 
 
 &nbsp;
 
@@ -60,7 +60,7 @@ Now that you&#8217;ve reached this point, skip the public server section and rea
 
 Unless you run a server at home, you will most likely be running the Minecraft server off a dedicated host or a VPS*. Both typically require knowledge of the **File Transfer Protocol (FTP). **<figure id="attachment_101" style="width: 300px" class="wp-caption alignnone">
 
-[<img class="size-medium wp-image-101" src="http://thinkingminecraft.tk/wp-content/uploads/2014/07/FTP-300x151.png" alt="FileZilla screenshot" width="300" height="151" srcset="http://128.199.175.217/wp-content/uploads/2014/07/FTP-300x151.png 300w, http://128.199.175.217/wp-content/uploads/2014/07/FTP-1024x518.png 1024w, http://128.199.175.217/wp-content/uploads/2014/07/FTP.png 1366w" sizes="(max-width: 300px) 100vw, 300px" />](http://thinkingminecraft.tk/wp-content/uploads/2014/07/FTP.png)<figcaption class="wp-caption-text">FileZilla, an FTP client</figcaption></figure> 
+[<img class="size-medium wp-image-101" src="/wp-content/uploads/2014/07/FTP-300x151.png" alt="FileZilla screenshot" width="300" height="151" srcset="http://128.199.175.217/wp-content/uploads/2014/07/FTP-300x151.png 300w, http://128.199.175.217/wp-content/uploads/2014/07/FTP-1024x518.png 1024w, http://128.199.175.217/wp-content/uploads/2014/07/FTP.png 1366w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2014/07/FTP.png)<figcaption class="wp-caption-text">FileZilla, an FTP client</figcaption></figure> 
 
 &nbsp;
 

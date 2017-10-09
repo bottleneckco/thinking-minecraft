@@ -4,7 +4,7 @@ title: 'Redstone: Power Sources'
 date: 2014-07-31T18:09:28+00:00
 author: Jerome Tiong
 layout: post
-guid: http://thinkingminecraft.tk/?p=543
+
 permalink: /?p=543
 categories:
   - Redstone Mania

@@ -4,7 +4,7 @@ title: 'Minecraft Snapshot &#8211; 14w32a'
 date: 2014-08-07T16:56:36+00:00
 author: Amos Tan
 layout: post
-guid: http://thinkingminecraft.tk/?p=570
+
 permalink: /?p=570
 categories:
   - Minecraft News

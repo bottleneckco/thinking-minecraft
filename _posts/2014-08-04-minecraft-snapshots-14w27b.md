@@ -4,7 +4,7 @@ title: 'Minecraft Snapshots &#8211; 14w27b'
 date: 2014-08-04T18:23:25+00:00
 author: Amos Tan
 layout: post
-guid: http://thinkingminecraft.tk/?p=432
+
 permalink: /?p=432
 categories:
   - Minecraft News
@@ -42,7 +42,7 @@ Today, this post will be talking the upcoming features in Snapshot 14w27b. This 
 
 **New Items in Snapshot 14w27b:**<figure id="attachment_464" style="width: 358px" class="wp-caption aligncenter">
 
-[<img class="wp-image-464 size-full" src="http://thinkingminecraft.tk/wp-content/uploads/2014/08/2014-08-06_15.28.14.png" alt="From left to right: Rabbit Stew, Raw Rabbit, Cooked Rabbit, Rabbit's Foot, Rabbit Hide, Raw Mutton, Cooked Mutton  " width="358" height="337" />](http://thinkingminecraft.tk/wp-content/uploads/2014/08/2014-08-06_15.28.14.png)<figcaption class="wp-caption-text">From left to right:   
+[<img class="wp-image-464 size-full" src="/wp-content/uploads/2014/08/2014-08-06_15.28.14.png" alt="From left to right: Rabbit Stew, Raw Rabbit, Cooked Rabbit, Rabbit's Foot, Rabbit Hide, Raw Mutton, Cooked Mutton  " width="358" height="337" />](/wp-content/uploads/2014/08/2014-08-06_15.28.14.png)<figcaption class="wp-caption-text">From left to right:   
 Rabbit Stew, Raw Rabbit, Cooked Rabbit, Rabbit&#8217;s Foot, Rabbit Hide, Raw Mutton, Cooked Mutton</figcaption></figure> 
 
 &nbsp;

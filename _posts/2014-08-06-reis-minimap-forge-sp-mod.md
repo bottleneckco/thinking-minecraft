@@ -4,7 +4,7 @@ title: 'Rei&#8217;s Minimap (Forge SP Mod)'
 date: 2014-08-06T16:34:43+00:00
 author: Adithya
 layout: post
-guid: http://thinkingminecraft.tk/?p=572
+
 permalink: /?p=572
 categories:
   - Mods / Plugins

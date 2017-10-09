@@ -4,14 +4,14 @@ title: 'Thoughts on the Newbie #1'
 date: 2014-07-27T21:21:03+00:00
 author: Amos Tan
 layout: post
-guid: http://thinkingminecraft.tk/?p=77
+
 permalink: /?p=77
 categories:
   - Thoughts on the Newbie
 ---
 Hello, and welcome to my first post, where I plan to jot down my thoughts after each recording session I did with Ivan, a friend who had never touched Minecraft before. Please watch the video before reading &#8220;Thoughts on the Newbie&#8221;
 
-Watch Episode 1 here: <a title="Newbie’s Impression of Minecraft – Episode 1" href="http://thinkingminecraft.tk/?p=161" target="_blank">http://thinkingminecraft.tk/?p=161</a>
+Watch Episode 1 here: <a title="Newbie’s Impression of Minecraft – Episode 1" href="/?p=161" target="_blank">/?p=161</a>
 
 * * *
 

@@ -4,7 +4,7 @@ title: 'Minecraft Snapshots &#8211; 14w25b'
 date: 2014-08-03T15:12:33+00:00
 author: Amos Tan
 layout: post
-guid: http://thinkingminecraft.tk/?p=367
+
 permalink: /?p=367
 categories:
   - Minecraft News
@@ -30,7 +30,7 @@ Hello and welcome to Minecraft news. This post will be about the upcoming featur
 
 **Ocean Monument:**<figure id="attachment_372" style="width: 244px" class="wp-caption alignright">
 
-[<img class="wp-image-372" src="http://thinkingminecraft.tk/wp-content/uploads/2014/08/2014-07-31_10.00.21-620x319.png" alt="An Ocean Monument" width="244" height="125" srcset="http://128.199.175.217/wp-content/uploads/2014/08/2014-07-31_10.00.21-620x319.png 620w, http://128.199.175.217/wp-content/uploads/2014/08/2014-07-31_10.00.21-940x485.png 940w, http://128.199.175.217/wp-content/uploads/2014/08/2014-07-31_10.00.21.png 1366w" sizes="(max-width: 244px) 100vw, 244px" />](http://thinkingminecraft.tk/wp-content/uploads/2014/08/2014-07-31_10.00.21.png)<figcaption class="wp-caption-text">_An Ocean Monument_</figcaption></figure> 
+[<img class="wp-image-372" src="/wp-content/uploads/2014/08/2014-07-31_10.00.21-620x319.png" alt="An Ocean Monument" width="244" height="125" srcset="http://128.199.175.217/wp-content/uploads/2014/08/2014-07-31_10.00.21-620x319.png 620w, http://128.199.175.217/wp-content/uploads/2014/08/2014-07-31_10.00.21-940x485.png 940w, http://128.199.175.217/wp-content/uploads/2014/08/2014-07-31_10.00.21.png 1366w" sizes="(max-width: 244px) 100vw, 244px" />](/wp-content/uploads/2014/08/2014-07-31_10.00.21.png)<figcaption class="wp-caption-text">_An Ocean Monument_</figcaption></figure> 
 
 This structure will be generated in aquatic biomes (obviously) and is build out variants of Prismarine and lit by Sea Lanterns, blocks which are released in this snapshot. This monument is swarming with the Guardian mobs,hostile mobs which is also released in this snapshot. Also in each Ocean Monument, there are 3 Elder Guardians, a stronger variant of the Guardian mobs. Elder Guardians will inflict Mining Fatigue III on nearby players to protect the treasures in the Ocean Monument from being stolen, until all the Elder Guardians are slain.
 
@@ -74,7 +74,7 @@ This structure will be generated in aquatic biomes (obviously) and is build out
 
 &nbsp;<figure id="attachment_388" style="width: 220px" class="wp-caption aligncenter">
 
-[<img class="wp-image-388 size-thumbnail" src="http://thinkingminecraft.tk/wp-content/uploads/2014/08/2014-07-31_10.58.35-220x140.png" alt="Wet Sponge and Sponge" width="220" height="140" />](http://thinkingminecraft.tk/wp-content/uploads/2014/08/2014-07-31_10.58.35.png)<figcaption class="wp-caption-text">Wet Sponge and Sponge</figcaption></figure> 
+[<img class="wp-image-388 size-thumbnail" src="/wp-content/uploads/2014/08/2014-07-31_10.58.35-220x140.png" alt="Wet Sponge and Sponge" width="220" height="140" />](/wp-content/uploads/2014/08/2014-07-31_10.58.35.png)<figcaption class="wp-caption-text">Wet Sponge and Sponge</figcaption></figure> 
 
 * * *
 

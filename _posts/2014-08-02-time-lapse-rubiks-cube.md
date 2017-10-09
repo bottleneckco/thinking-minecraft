@@ -4,7 +4,7 @@ title: 'Time lapse: Rubik&#8217;s Cube'
 date: 2014-08-02T10:07:48+00:00
 author: Jerome Tiong
 layout: post
-guid: http://thinkingminecraft.tk/?p=588
+
 permalink: /?p=588
 categories:
   - Time Lapses
